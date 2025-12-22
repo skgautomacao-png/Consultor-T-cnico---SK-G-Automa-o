@@ -1,0 +1,7 @@
+{
+  "name": "SK-G Automação - Consultor Técnico Inteligente",
+  "description": "Plataforma avançada de transcodificação competitiva e suporte técnico para componentes pneumáticos Camozzi, integrada com inteligência artificial para precisão absoluta.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
